@@ -1,30 +1,36 @@
-# Welcome to My GitHub Profile!
+# Hi there, I'm Teddy! 👋
 
-Hello! I'm Teddy35ted, a passionate developer who loves to create and contribute to open-source projects. I'm always eager to learn new technologies and improve my skills.
+Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast. I love exploring new technologies, contributing to open-source projects, and building innovative solutions. Here's a little more about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning advanced JavaScript and exploring AI/ML.
-- 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:Teddy35ted@example.com) | [LinkedIn](https://www.linkedin.com/in/Teddy35ted/)
-- ⚡ Fun fact: I love hiking and exploring new places!
 
-## 🛠️ Skills & Technologies
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- 🌐 *Website*: [My Portfolio](https://portfolio-74wz.onrender.com)
+- 💼 *LinkedIn*: [BlackH19](www.linkedin.com/in/Ted KOUEVI)
+- 📫 *Email*: [blackh19@example.com](tedkouevi601@gmail.com)
 
-## 📝 Current Projects
-- **[Project 1](https://github.com/Teddy35ted/project1)**: A web application built with React and Node.js.
-- **[Project 2](https://github.com/Teddy35ted/project2)**: An AI-based chatbot using Python and TensorFlow.
+## 🛠 Technologies & Tools
 
-## 🌟 Featured Repositories
-- **[Repo 1](https://github.com/Teddy35ted/repo1)**: A library for handling JSON data in JavaScript.
-- **[Repo 2](https://github.com/Teddy35ted/repo2)**: A collection of useful Python scripts for data analysis.
+- *Languages*: Python, JavaScript, TypeScript, Java, C++,dart,php
+- *Frameworks*: React, Django, Flask, Spring Boot,Next,Laravel
+ - *Tools*: Git, VS Code
+- *Databases*: MySQL, Firebase, MongoDB, Supabase
 
-## 🎯 Personal Interests
-- Coding challenges and hackathons
-- Reading tech blogs and articles
-- Traveling and photography
+## 🌱 What I'm Currently Learning
 
-Feel free to explore my repositories and connect with me!
+- Next.JS
+- Inertia.JS
+- DevOps practices and CI/CD pipelines
+
+## 📈 GitHub Stats
+
+![BlackH19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddy35ted&show_icons=true&theme=radical)
+
+## 🏆 My GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Teddy35ted&theme=onedark)
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections.
+
+Thanks for stopping by! Have a great day! 😊
