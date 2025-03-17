@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 🚀 About Me
 
 - 🌐 *Website*: [My Portfolio](https://portfolio-74wz.onrender.com)
-- 💼 *LinkedIn*: www.linkedin.com/in/Ted KOUEVI
+- 💼 *LinkedIn*: www.linkedin.com/in/TedKOUEVI
 - 📫 *Email*: tedkouevi601@gmail.com
 
 ## 🛠 Technologies & Tools
