@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## 🌱 What I'm Currently Learning
 
-- Next.JS
-- Inertia.JS
-- DevOps practices and CI/CD pipelines
+- Nest.JS
+  
+
 
 ## 📈 GitHub Stats
 
